@@ -1,0 +1,17 @@
+[
+    {
+        "_id": "beverages",
+        "title": "Beverages",
+        "description": "this is a test description"
+    },
+    {
+        "_id": "fruits",
+        "title": "Fruits",
+        "description": "this is a test description"
+    },
+    {
+        "_id": "vegetables",
+        "title": "Vegetable",
+        "description": "this is a test description"
+    }
+]

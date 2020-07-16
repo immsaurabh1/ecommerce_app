@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Product 1",
+        "image": "https://picsum.photos/400?image=581",
+        "productStock": true,
+        "price": "3074.584",
+        "category": "beverages",
+        "quantity": 40
+    },
+    {
+        "category": "fruits",
+        "quantity": 40,
+        "name": "Product 2",
+        "image": "https://picsum.photos/400?image=78",
+        "productStock": true,
+        "price": "3086.590"
+    },
+    {
+        "category": "beverages",
+        "quantity": 40,
+        "name": "Product 3",
+        "image": "https://picsum.photos/400?image=955",
+        "productStock": true,
+        "price": "2219.952"
+    },
+    {
+        "category": "fruits",
+        "quantity": 40,
+        "name": "Product 4",
+        "image": "https://picsum.photos/400?image=275",
+        "productStock": true,
+        "price": "3457.749"
+    },
+    {
+        "category": "beverages",
+        "quantity": 40,
+        "name": "Product 5",
+        "image": "https://picsum.photos/400?image=335",
+        "productStock": true,
+        "price": "1800.730"
+    },
+    {
+        "category": "vegetables",
+        "quantity": 40,
+        "name": "Product 6",
+        "image": "https://picsum.photos/400?image=282",
+        "productStock": true,
+        "price": "3865.231"
+    },
+    {
+        "category": "beverages",
+        "quantity": 40,
+        "name": "Product 7",
+        "image": "https://picsum.photos/400?image=524",
+        "productStock": false,
+        "price": "3591.303"
+    },
+    {
+        "category": "vegetables",
+        "quantity": 40,
+        "name": "Product 8",
+        "image": "https://picsum.photos/400?image=241",
+        "productStock": false,
+        "price": "1224.475"
+    },
+    {
+        "category": "beverages",
+        "quantity": 40,
+        "name": "Product 9",
+        "image": "https://picsum.photos/400?image=275",
+        "productStock": true,
+        "price": "1058.789"
+    },
+    {
+        "category": "fruits",
+        "quantity": 40,
+        "name": "Product 10",
+        "image": "https://picsum.photos/400?image=836",
+        "productStock": false,
+        "price": "2774.611"
+    },
+    {
+        "category": "beverages",
+        "quantity": 40,
+        "name": "Product 11",
+        "image": "https://picsum.photos/400?image=414",
+        "productStock": false,
+        "price": "3732.959"
+    },
+    {
+        "category": "fruits",
+        "quantity": 40,
+        "name": "Product 12",
+        "image": "https://picsum.photos/400?image=463",
+        "productStock": false,
+        "price": "3190.968"
+    },
+    {
+        "category": "beverages",
+        "quantity": 40,
+        "name": "Product 13",
+        "image": "https://picsum.photos/400?image=197",
+        "productStock": true,
+        "price": "2541.240"
+    },
+    {
+        "category": "fruits",
+        "quantity": 40,
+        "name": "Product 14",
+        "image": "https://picsum.photos/400?image=662",
+        "productStock": true,
+        "price": "1800.326"
+    },
+    {
+        "category": "vegetables",
+        "quantity": 40,
+        "name": "Product 15",
+        "image": "https://picsum.photos/400?image=187",
+        "productStock": true,
+        "price": "3302.153"
+    },
+    {
+        "category": "fruits",
+        "quantity": 40,
+        "name": "Product 16",
+        "image": "https://picsum.photos/400?image=379",
+        "productStock": false,
+        "price": "3282.737"
+    },
+    {
+        "category": "beverages",
+        "quantity": 40,
+        "name": "Product 17",
+        "image": "https://picsum.photos/400?image=158",
+        "productStock": false,
+        "price": "3387.906"
+    },
+    {
+        "category": "beverages",
+        "quantity": 40,
+        "name": "Product 18",
+        "image": "https://picsum.photos/400?image=180",
+        "productStock": true,
+        "price": "3265.267"
+    },
+    {
+        "category": "vegetables",
+        "quantity": 40,
+        "name": "Product 19",
+        "image": "https://picsum.photos/400?image=449",
+        "productStock": true,
+        "price": "2656.466"
+    },
+    {
+        "category": "vegetables",
+        "quantity": 40,
+        "name": "Product 20",
+        "image": "https://picsum.photos/400?image=660",
+        "productStock": true,
+        "price": "2859.363"
+    }
+]
