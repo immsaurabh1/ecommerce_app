@@ -1,6 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
-
+// const path = require('path');
 // making few variables accessible globally
 
 global._app = express();
@@ -9,8 +9,9 @@ global._models = require('./models');
 
 _app.use(require('./middleware'));
 _app.use(require('./routes'));
+// console.log(__dirname)
+// _app.use(express.static(path.join(__dirname, "../frontend/build/")));
 
-console.log(_config.get('db'))
 // Setup DB Connection
 mongoose.connect(_config.get('db').uri, _config.get('db').options)
     .then(connection => {
