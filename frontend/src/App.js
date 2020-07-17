@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import ProductComponent from "./components/Routes/ProductComponent"
 

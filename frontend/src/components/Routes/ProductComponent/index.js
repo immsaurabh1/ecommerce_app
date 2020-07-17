@@ -9,7 +9,6 @@ import ShoppingCartIcon from '@material-ui/icons/ShoppingCart';
 
 export default function ProductComponent(props) {
     const [productData, setProductData] = useState([])
-    const [expanded, setExpanded] = React.useState(false);
     useEffect(() => {
         // axios.get('http:/localhost:3333/api/v1/products')
         //     .then(response => { console.log(response) })
