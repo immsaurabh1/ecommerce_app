@@ -2,6 +2,10 @@
 
 E-commerce application with MERN
 
+Product Listing Page
+Added cart/wishlist functionality. 
+Integrated with Payment gateway (currently using Razorpay)
+
 ########################################################################################################
 Prerequisite:
 
